@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.Pocos", "E:\Humber\Advanced C#\Assignment 4\CareerCloud.Pocos\CareerCloud.Pocos.csproj", "{CE2F05C2-9616-4736-9252-778431165F23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.DataAccessLayer", "E:\Humber\Advanced C#\Assignment 4\CareerCloud.DataAccessLayer\CareerCloud.DataAccessLayer.csproj", "{A67DB64C-5C0A-427A-A62A-8BD4E72BAF4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.BusinessLogicLayer", "E:\Humber\Advanced C#\Assignment 4\CareerCloud.BusinessLogicLayer\CareerCloud.BusinessLogicLayer.csproj", "{9E04975D-3EB5-47E7-AD56-E91DAF31799C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.ADODataAccessLayer", "E:\Humber\Advanced C#\Assignment 4\CareerCloud.ADODataAccessLayer\CareerCloud.ADODataAccessLayer.csproj", "{E010846A-F91E-4B4A-88B5-8E9E57D2D1D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.EntityFrameworkDataAccess", "E:\Humber\Advanced C#\Assignment 4\CareerCloudEntityFrameworkDataAccess\CareerCloud.EntityFrameworkDataAccess.csproj", "{6BA3E0BF-F37E-4BEE-8486-6BC067D78B68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment4", "E:\Humber\Advanced C#\Assignment 4\CareerCloudCore.UnitTests.Assignment4\CareerCloudCore.UnitTests.Assignment4.csproj", "{B10CE809-543A-4C85-ABFA-A2ED7F09F2D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2F05C2-9616-4736-9252-778431165F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2F05C2-9616-4736-9252-778431165F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2F05C2-9616-4736-9252-778431165F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2F05C2-9616-4736-9252-778431165F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67DB64C-5C0A-427A-A62A-8BD4E72BAF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67DB64C-5C0A-427A-A62A-8BD4E72BAF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67DB64C-5C0A-427A-A62A-8BD4E72BAF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67DB64C-5C0A-427A-A62A-8BD4E72BAF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E04975D-3EB5-47E7-AD56-E91DAF31799C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E04975D-3EB5-47E7-AD56-E91DAF31799C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E04975D-3EB5-47E7-AD56-E91DAF31799C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E04975D-3EB5-47E7-AD56-E91DAF31799C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E010846A-F91E-4B4A-88B5-8E9E57D2D1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E010846A-F91E-4B4A-88B5-8E9E57D2D1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E010846A-F91E-4B4A-88B5-8E9E57D2D1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E010846A-F91E-4B4A-88B5-8E9E57D2D1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA3E0BF-F37E-4BEE-8486-6BC067D78B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA3E0BF-F37E-4BEE-8486-6BC067D78B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA3E0BF-F37E-4BEE-8486-6BC067D78B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA3E0BF-F37E-4BEE-8486-6BC067D78B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10CE809-543A-4C85-ABFA-A2ED7F09F2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10CE809-543A-4C85-ABFA-A2ED7F09F2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10CE809-543A-4C85-ABFA-A2ED7F09F2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10CE809-543A-4C85-ABFA-A2ED7F09F2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE68472-D6F7-46BC-B5E2-34E8FE3EB260}
+	EndGlobalSection
+EndGlobal
